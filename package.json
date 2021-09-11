@@ -1,0 +1,18 @@
+{
+  "name": "plasma007-my-npm-test",
+  "version": "1.0.2",
+  "description": "This is a concise tutorial on npm package。这是一个简明的关于npm打包的教程",
+  "main": "lib/index.js",
+  "files": [
+    "/lib",
+    "./README.md",
+    "./package.json"
+  ],
+  "type" : "module",
+  "keywords": [
+    "mytest",
+    "npm"
+  ],
+  "author": "plasma007",
+  "license": "MIT"
+}
